@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects>
+  <project name="com.savia.ejemplo-ejb"/>
+ </depends-on-projects>
+ <used-by-projects/>
+ <paths>
+  <path value="/home/saviasoft20/.m2/repository/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Final/jboss-interceptors-api_1.1_spec-1.0.0.Final.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.jar"/>
+  <path value="/com.savia.ejemplo-web/src/main/webapp/WEB-INF/faces-config.xml">
+   <libraries>
+    <library class="faces-config">
+     <id class="model-object"
+      path="FileSystems/WEB-INF/faces-config.xml" project="com.savia.ejemplo-web"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="/home/saviasoft20/.m2/repository/org/jboss/spec/javax/ws/rs/jboss-jaxrs-api_1.1_spec/1.0.0.Final/jboss-jaxrs-api_1.1_spec-1.0.0.Final.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jboss.cdi.core">
+   <linked-resource declaration="true" name="%1;" path="%0"/>
+   <linked-resource name="%3;%4;%0;%5;" path="%2"/>
+   <linked-resource name="%5;" path="%4"/>
+   <linked-resource declaration="true" name="%6;%7;" path="%4"/>
+  </core>
+  <el>
+   <linked-el length="27" name="%6" offset="1452" path="%8"/>
+   <linked-el length="21" name="%6" offset="1119" path="%8"/>
+   <linked-el length="20" name="%6" offset="805" path="%8"/>
+   <linked-el length="37" name="%9" offset="2969" path="%8"/>
+   <linked-el length="51" name="%9" offset="2766" path="%8"/>
+   <linked-el length="77" name="%10" offset="1799" path="%8"/>
+   <linked-el length="33" name="%7" offset="1675" path="%8"/>
+   <linked-el length="22" name="%1" offset="2136" path="%8"/>
+   <linked-el length="22" name="%1" offset="2105" path="%8"/>
+   <linked-el length="46" name="%1" offset="2478" path="%8"/>
+   <linked-el length="51" name="%1" offset="2766" path="%8"/>
+   <linked-el length="18" name="%1" offset="1983" path="%8"/>
+   <linked-el length="45" name="%1" offset="2351" path="%8"/>
+   <linked-el length="52" name="%1" offset="2608" path="%8"/>
+   <linked-el length="27" name="%1" offset="2818" path="%8"/>
+   <linked-el length="43" name="%1" offset="2227" path="%8"/>
+   <linked-el length="33" name="%4" offset="1675" path="%8"/>
+   <linked-el length="27" name="%4" offset="1452" path="%8"/>
+   <linked-el length="21" name="%4" offset="1119" path="%8"/>
+   <linked-el length="20" name="%4" offset="805" path="%8"/>
+   <linked-el length="37" name="%11" offset="2969" path="%8"/>
+   <linked-el length="51" name="%11" offset="2766" path="%8"/>
+   <linked-el length="22" name="%0" offset="2136" path="%8"/>
+   <linked-el length="22" name="%0" offset="2105" path="%8"/>
+   <linked-el length="18" name="%0" offset="1983" path="%8"/>
+   <linked-el length="27" name="%12" offset="1452" path="%8"/>
+   <linked-el length="46" name="%12" offset="2478" path="%8"/>
+   <linked-el length="51" name="%12" offset="2766" path="%8"/>
+   <linked-el length="21" name="%12" offset="1119" path="%8"/>
+   <linked-el length="45" name="%12" offset="2351" path="%8"/>
+   <linked-el length="52" name="%12" offset="2608" path="%8"/>
+   <linked-el length="27" name="%12" offset="2818" path="%8"/>
+   <linked-el length="43" name="%12" offset="2227" path="%8"/>
+   <linked-el length="20" name="%12" offset="805" path="%8"/>
+   <linked-el length="77" name="%13" offset="1799" path="%8"/>
+   <linked-el length="77" name="%14" offset="1799" path="%8"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="request" value="%9"/>
+  <alias
+   path="/com.savia.ejemplo-web/src/main/java/com/savia/ejemplo/com/savia/ejemplo/rest/MemberResourceRESTService.java" value="%3"/>
+  <alias path="/com.savia.ejemplo-web/src/main/webapp/index.xhtml" value="%8"/>
+  <alias
+   path="/com.savia.ejemplo-ejb/src/main/java/com/savia/ejemplo/com/savia/ejemplo/util/Resources.java" value="%2"/>
+  <alias
+   path="/com.savia.ejemplo-ejb/src/main/java/com/savia/ejemplo/com/savia/ejemplo/model/Member.java" value="%12"/>
+  <alias path="facesContext.messageList" value="%14"/>
+  <alias path="newMember" value="%6"/>
+  <alias path="facesContext" value="%10"/>
+  <alias path="members" value="%1"/>
+  <alias path="memberRegistration" value="%7"/>
+  <alias
+   path="/com.savia.ejemplo-ejb/src/main/java/com/savia/ejemplo/com/savia/ejemplo/controller/MemberRegistration.java" value="%4"/>
+  <alias path="request.contextPath" value="%11"/>
+  <alias
+   path="/com.savia.ejemplo-ejb/src/main/java/com/savia/ejemplo/com/savia/ejemplo/data/MemberListProducer.java" value="%0"/>
+  <alias
+   path="/com.savia.ejemplo-ejb/src/test/java/com/savia/ejemplo/com/savia/ejemplo/test/MemberRegistrationTest.java" value="%5"/>
+  <alias path="facesContext.postback" value="%13"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://java.sun.com/jsf/core">
+   <prefix>f</prefix>
+  </uri>
+  <uri value="http://java.sun.com/jsf/html">
+   <prefix>h</prefix>
+  </uri>
+ </uris>
+</kb-project>

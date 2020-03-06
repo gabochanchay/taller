@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/xml/soap/api/main/jboss-saaj-api_1.3_spec-1.0.6.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/batch/api/main/jboss-batch-api_1.0_spec-1.0.1.Final.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/jboss/spec/javax/ws/rs/jboss-jaxrs-api_1.1_spec/1.0.0.Final/jboss-jaxrs-api_1.1_spec-1.0.0.Final.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/javax/javaee-api/8.0/javaee-api-8.0.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/validation/api/main/validation-api-2.0.1.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/org/jboss/resteasy/resteasy-jaxrs/main/resteasy-client-3.6.1.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/servlet/jstl/api/main/taglibs-standard-impl-1.2.6-RC1.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/META-INF/c-1_0-rt.tld" project="ejemplo-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/META-INF/c-1_1.tld" project="ejemplo-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/META-INF/c.tld" project="ejemplo-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/META-INF/fmt-1_0-rt.tld" project="ejemplo-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/META-INF/fmt.tld" project="ejemplo-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/META-INF/fn.tld" project="ejemplo-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/META-INF/permittedTaglibs.tld" project="ejemplo-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/META-INF/scriptfree.tld" project="ejemplo-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/META-INF/sql-1_0-rt.tld" project="ejemplo-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/META-INF/sql.tld" project="ejemplo-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/META-INF/x-1_0-rt.tld" project="ejemplo-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-impl-1.2.6-RC1.jar/META-INF/x.tld" project="ejemplo-ejb"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/interceptor/api/main/jboss-interceptors-api_1.2_spec-1.0.1.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/jms/api/main/jboss-jms-api_2.0_spec-1.0.2.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/servlet/jstl/api/main/taglibs-standard-spec-1.2.6-RC1.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/el/api/main/jboss-el-api_3.0_spec-1.0.12.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/security/jacc/api/main/jboss-jacc-api_1.5_spec-1.0.2.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/faces/api/main/jboss-jsf-api_2.3_spec-2.3.5.SP1.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/org/picketbox/main/picketbox-5.0.3.Final.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/com/sun/mail/javax.mail/1.6.0/javax.mail-1.6.0.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/ejb/api/main/jboss-ejb-api_3.2_spec-1.0.1.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/websocket/api/main/jboss-websocket-api_1.1_spec-1.1.3.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/activation/api/main/activation-1.1.1.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/xml/rpc/api/main/jboss-jaxrpc-api_1.1_spec-1.0.2.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/xml/ws/api/main/jboss-jaxws-api_2.3_spec-1.0.0.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/org/jboss/ejb3/main/jboss-ejb3-ext-api-2.2.0.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/jws/api/main/jsr181-api-1.0-MR1.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/mail/api/main/javax.mail-1.6.1.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/servlet/api/main/jboss-servlet-api_4.0_spec-1.0.0.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/wsdl4j/api/main/wsdl4j-1.6.3.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/org/jboss/dmr/main/jboss-dmr-1.5.0.Final.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/jboss/logging/jboss-logging/3.4.1.Final/jboss-logging-3.4.1.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/org/wildfly/common/main/wildfly-common-1.4.0.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/security/auth/message/api/main/jboss-jaspi-api_1.1_spec-1.0.2.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/servlet/jsp/api/main/jboss-jsp-api_2.3_spec-1.0.3.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/persistence/api/main/javax.persistence-api-2.2.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/org/hibernate/validator/main/hibernate-validator-6.0.13.Final.jar"/>
+  <path value="/ejemplo-web/src/main/webapp/WEB-INF/faces-config.xml">
+   <libraries>
+    <library class="faces-config">
+     <id class="model-object"
+      path="FileSystems/WEB-INF/faces-config.xml" project="ejemplo-web"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/management/j2ee/api/main/jboss-j2eemgmt-api_1.1_spec-1.0.2.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/org/picketbox/main/picketbox-infinispan-5.0.3.Final.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/org/jboss/as/controller-client/main/wildfly-controller-client-6.0.1.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/org/jboss/resteasy/resteasy-multipart-provider/main/resteasy-multipart-provider-3.6.1.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/org/wildfly/security/elytron-private/main/wildfly-elytron-1.6.0.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/org/jboss/logging/main/jboss-logging-3.3.2.Final.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Final/jboss-interceptors-api_1.1_spec-1.0.0.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/resource/api/main/jboss-connector-api_1.7_spec-1.0.1.Final.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/xml/bind/api/main/jboss-jaxb-api_2.3_spec-1.0.1.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/servlet/jstl/api/main/taglibs-standard-compat-1.2.6-RC1.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-compat-1.2.6-RC1.jar/META-INF/c-1_0.tld" project="ejemplo-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-compat-1.2.6-RC1.jar/META-INF/fmt-1_0.tld" project="ejemplo-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-compat-1.2.6-RC1.jar/META-INF/sql-1_0.tld" project="ejemplo-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-taglibs-standard-compat-1.2.6-RC1.jar/META-INF/x-1_0.tld" project="ejemplo-ejb"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/ws/rs/api/main/jboss-jaxrs-api_2.1_spec-1.0.1.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/enterprise/api/main/cdi-api-2.0.SP1.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/inject/api/main/javax.inject-1.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/transaction/api/main/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/json/api/main/javax.json-api-1.1.2.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/org/jboss/resteasy/resteasy-jaxrs/main/resteasy-jaxrs-3.6.1.Final.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/com/saviasoft/microservicios/saviasoft-persistence/5.2.1/saviasoft-persistence-5.2.1.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/org/jboss/resteasy/resteasy-jaxb-provider/main/resteasy-jaxb-provider-3.6.1.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/annotation/api/main/jboss-annotations-api_1.3_spec-1.0.1.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/org/jboss/resteasy/resteasy-jaxrs/main/resteasy-client-microprofile-3.6.1.Final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/org/picketbox/main/picketbox-commons-1.0.0.final.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/wildfly-14.0.0.actuaria-portal2/wildfly-14.0.0.actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/wildfly-14.0.0.Final-actuaria-portal/modules/system/layers/base/javax/enterprise/concurrent/api/main/jboss-concurrency-api_1.0_spec-1.0.2.Final.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification"/>
+  <core validator-id="jboss.cdi.core">
+   <linked-resource name="%1;" path="%0"/>
+   <linked-resource name="%3;" path="%2"/>
+   <linked-resource name="%3;" path="%4"/>
+   <linked-resource declaration="true" name="%6;" path="%5"/>
+   <linked-resource name="%1;" path="%7"/>
+   <linked-resource name="%10;" path="%8"/>
+   <linked-resource declaration="true" name="%9;%11;" path="%8"/>
+   <linked-resource declaration="true" name="%12;" path="%1"/>
+   <linked-resource name="%10;%5;%14;%8;" path="%13"/>
+   <linked-resource name="%1;" path="%3"/>
+  </core>
+  <core validator-id="batch-verification"/>
+  <core validator-id="jboss.jsf.core"/>
+  <el>
+   <linked-el length="25" name="%15" offset="1457" path="%16"/>
+   <linked-el length="37" name="%15" offset="2969" path="%17"/>
+   <linked-el length="33" name="%15" offset="1072" path="%16"/>
+   <linked-el length="51" name="%15" offset="2766" path="%17"/>
+   <linked-el length="33" name="%15" offset="745" path="%16"/>
+   <linked-el length="23" name="%18" offset="1120" path="%16"/>
+   <linked-el length="25" name="%19" offset="707" path="%16"/>
+   <linked-el length="52" name="%20" offset="2608" path="%17"/>
+   <linked-el length="46" name="%21" offset="2478" path="%17"/>
+   <linked-el length="51" name="%21" offset="2766" path="%17"/>
+   <linked-el length="45" name="%21" offset="2351" path="%17"/>
+   <linked-el length="52" name="%21" offset="2608" path="%17"/>
+   <linked-el length="27" name="%21" offset="2818" path="%17"/>
+   <linked-el length="43" name="%21" offset="2227" path="%17"/>
+   <linked-el length="29" name="%22" offset="329" path="%23"/>
+   <linked-el length="33" name="%8" offset="1675" path="%17"/>
+   <linked-el length="27" name="%8" offset="1452" path="%17"/>
+   <linked-el length="21" name="%8" offset="1119" path="%17"/>
+   <linked-el length="20" name="%8" offset="805" path="%17"/>
+   <linked-el length="45" name="%24" offset="2351" path="%17"/>
+   <linked-el length="33" name="%11" offset="1675" path="%17"/>
+   <linked-el length="22" name="%6" offset="2136" path="%17"/>
+   <linked-el length="22" name="%6" offset="2105" path="%17"/>
+   <linked-el length="46" name="%6" offset="2478" path="%17"/>
+   <linked-el length="51" name="%6" offset="2766" path="%17"/>
+   <linked-el length="18" name="%6" offset="1983" path="%17"/>
+   <linked-el length="45" name="%6" offset="2351" path="%17"/>
+   <linked-el length="52" name="%6" offset="2608" path="%17"/>
+   <linked-el length="27" name="%6" offset="2818" path="%17"/>
+   <linked-el length="43" name="%6" offset="2227" path="%17"/>
+   <linked-el length="20" name="%25" offset="805" path="%17"/>
+   <linked-el length="29" name="%12" offset="1165" path="%26"/>
+   <linked-el length="35" name="%12" offset="1511" path="%26"/>
+   <linked-el length="41" name="%12" offset="792" path="%26"/>
+   <linked-el length="33" name="%12" offset="1385" path="%26"/>
+   <linked-el length="29" name="%12" offset="1715" path="%26"/>
+   <linked-el length="26" name="%12" offset="1444" path="%26"/>
+   <linked-el length="14" name="%12" offset="991" path="%26"/>
+   <linked-el length="26" name="%12" offset="512" path="%26"/>
+   <linked-el length="30" name="%12" offset="1889" path="%26"/>
+   <linked-el length="28" name="%12" offset="594" path="%26"/>
+   <linked-el length="22" name="%27" offset="1220" path="%28"/>
+   <linked-el length="22" name="%27" offset="1066" path="%29"/>
+   <linked-el length="22" name="%5" offset="2136" path="%17"/>
+   <linked-el length="22" name="%5" offset="2105" path="%17"/>
+   <linked-el length="18" name="%5" offset="1983" path="%17"/>
+   <linked-el length="27" name="%30" offset="960" path="%16"/>
+   <linked-el length="28" name="%31" offset="898" path="%16"/>
+   <linked-el length="29" name="%32" offset="1167" path="%16"/>
+   <linked-el length="33" name="%32" offset="1072" path="%16"/>
+   <linked-el length="23" name="%32" offset="1120" path="%16"/>
+   <linked-el length="21" name="%33" offset="1119" path="%17"/>
+   <linked-el length="22" name="%34" offset="852" path="%16"/>
+   <linked-el length="28" name="%35" offset="898" path="%16"/>
+   <linked-el length="27" name="%35" offset="960" path="%16"/>
+   <linked-el length="22" name="%35" offset="852" path="%16"/>
+   <linked-el length="33" name="%35" offset="745" path="%16"/>
+   <linked-el length="77" name="%36" offset="1799" path="%17"/>
+   <linked-el length="29" name="%1" offset="1165" path="%26"/>
+   <linked-el length="35" name="%1" offset="1511" path="%26"/>
+   <linked-el length="41" name="%1" offset="792" path="%26"/>
+   <linked-el length="33" name="%1" offset="1385" path="%26"/>
+   <linked-el length="29" name="%1" offset="1715" path="%26"/>
+   <linked-el length="26" name="%1" offset="1444" path="%26"/>
+   <linked-el length="26" name="%1" offset="512" path="%26"/>
+   <linked-el length="30" name="%1" offset="1889" path="%26"/>
+   <linked-el length="28" name="%1" offset="594" path="%26"/>
+   <linked-el length="35" name="%37" offset="1511" path="%26"/>
+   <linked-el length="26" name="%37" offset="1444" path="%26"/>
+   <linked-el length="14" name="%37" offset="991" path="%26"/>
+   <linked-el length="51" name="%38" offset="2766" path="%17"/>
+   <linked-el length="27" name="%38" offset="2818" path="%17"/>
+   <linked-el length="43" name="%38" offset="2227" path="%17"/>
+   <linked-el length="33" name="%39" offset="1072" path="%16"/>
+   <linked-el length="27" name="%9" offset="1452" path="%17"/>
+   <linked-el length="21" name="%9" offset="1119" path="%17"/>
+   <linked-el length="20" name="%9" offset="805" path="%17"/>
+   <linked-el length="27" name="%40" offset="1452" path="%17"/>
+   <linked-el length="77" name="%41" offset="1799" path="%17"/>
+   <linked-el length="46" name="%42" offset="2478" path="%17"/>
+   <linked-el length="30" name="%43" offset="306" path="%29"/>
+   <linked-el length="33" name="%43" offset="626" path="%16"/>
+   <linked-el length="29" name="%43" offset="1167" path="%16"/>
+   <linked-el length="25" name="%43" offset="922" path="%26"/>
+   <linked-el length="25" name="%43" offset="1626" path="%26"/>
+   <linked-el length="25" name="%43" offset="1750" path="%26"/>
+   <linked-el length="33" name="%43" offset="465" path="%44"/>
+   <linked-el length="30" name="%43" offset="305" path="%45"/>
+   <linked-el length="24" name="%43" offset="1200" path="%26"/>
+   <linked-el length="32" name="%43" offset="481" path="%16"/>
+   <linked-el length="28" name="%43" offset="898" path="%16"/>
+   <linked-el length="32" name="%43" offset="334" path="%44"/>
+   <linked-el length="30" name="%43" offset="306" path="%28"/>
+   <linked-el length="22" name="%43" offset="1599" path="%16"/>
+   <linked-el length="28" name="%43" offset="1413" path="%16"/>
+   <linked-el length="33" name="%43" offset="1578" path="%26"/>
+   <linked-el length="27" name="%43" offset="420" path="%26"/>
+   <linked-el length="26" name="%43" offset="1925" path="%26"/>
+   <linked-el length="25" name="%43" offset="1094" path="%26"/>
+   <linked-el length="24" name="%43" offset="544" path="%26"/>
+   <linked-el length="33" name="%46" offset="745" path="%16"/>
+   <linked-el length="29" name="%47" offset="329" path="%23"/>
+   <linked-el length="25" name="%47" offset="707" path="%16"/>
+   <linked-el length="22" name="%47" offset="1220" path="%28"/>
+   <linked-el length="22" name="%47" offset="1066" path="%29"/>
+   <linked-el length="25" name="%48" offset="1457" path="%16"/>
+   <linked-el length="37" name="%48" offset="2969" path="%17"/>
+   <linked-el length="33" name="%48" offset="1072" path="%16"/>
+   <linked-el length="51" name="%48" offset="2766" path="%17"/>
+   <linked-el length="33" name="%48" offset="745" path="%16"/>
+   <linked-el length="29" name="%49" offset="1167" path="%16"/>
+   <linked-el length="77" name="%50" offset="1799" path="%17"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="m2.icono" value="%18"/>
+  <alias
+   path="/ejemplo-web/src/main/webapp/templates/common/footer.xhtml" value="%23"/>
+  <alias path="_member.phoneNumber" value="%20"/>
+  <alias
+   path="/ejemplo-web/src/main/webapp/templates/common/headerLogout.xhtml" value="%44"/>
+  <alias path="_member" value="%21"/>
+  <alias
+   path="/ejemplo-ejb/src/main/java/com/savia/ejemplo/ejemplo/service/CiudadServiceRemote.java" value="%7"/>
+  <alias
+   path="/ejemplo-ejb/src/main/java/com/savia/ejemplo/ejemplo/service/impl/CiudadServiceImpl.java" value="%3"/>
+  <alias
+   path="/ejemplo-ejb/src/main/java/com/savia/ejemplo/ejemplo/service/CiudadService.java" value="%0"/>
+  <alias
+   path="/ejemplo-ejb/src/main/java/com/savia/ejemplo/ejemplo/controller/MemberRegistration.java" value="%8"/>
+  <alias path="_member.name" value="%24"/>
+  <alias path="members" value="%6"/>
+  <alias path="memberRegistration" value="%11"/>
+  <alias path="ciudadCtrl" value="%12"/>
+  <alias
+   path="/ejemplo-ejb/src/main/java/com/savia/ejemplo/ejemplo/dao/CiudadDao.java" value="%2"/>
+  <alias path="sesionCtrl.locale" value="%27"/>
+  <alias path="m.opcionListaTransient" value="%30"/>
+  <alias path="m.llave" value="%31"/>
+  <alias path="m.icono" value="%34"/>
+  <alias path="facesContext.messageList" value="%36"/>
+  <alias
+   path="/ejemplo-ejb/src/main/java/com/savia/ejemplo/ejemplo/model/Ciudad.java" value="%37"/>
+  <alias path="_member.id" value="%38"/>
+  <alias path="newMember" value="%9"/>
+  <alias
+   path="/ejemplo-web/src/main/webapp/templates/general_home.xhtml" value="%29"/>
+  <alias path="m2.url" value="%39"/>
+  <alias
+   path="/ejemplo-ejb/src/test/java/com/savia/ejemplo/ejemplo/test/MemberRegistrationTest.java" value="%10"/>
+  <alias path="/ejemplo-web/src/main/webapp/templates/general.xhtml" value="%28"/>
+  <alias path="newMember.phoneNumber" value="%40"/>
+  <alias path="_member.email" value="%42"/>
+  <alias path="etiquetas" value="%43"/>
+  <alias path="sesionCtrl" value="%47"/>
+  <alias path="facesContext.postback" value="%50"/>
+  <alias path="request" value="%15"/>
+  <alias path="sesionCtrl.menuLista" value="%19"/>
+  <alias
+   path="/ejemplo-web/src/main/java/com/savia/ejemplo/ejemplo/rest/MemberResourceRESTService.java" value="%14"/>
+  <alias
+   path="/ejemplo-web/src/main/webapp/templates/generalLogout.xhtml" value="%45"/>
+  <alias path="/ejemplo-web/src/main/webapp/templates/common/menu.xhtml" value="%16"/>
+  <alias path="sesionCtrl.anioActual" value="%22"/>
+  <alias path="newMember.name" value="%25"/>
+  <alias
+   path="/ejemplo-ejb/src/main/java/com/savia/ejemplo/ejemplo/data/MemberListProducer.java" value="%5"/>
+  <alias
+   path="/ejemplo-ejb/src/main/java/com/savia/ejemplo/ejemplo/util/Resources.java" value="%13"/>
+  <alias path="m2" value="%32"/>
+  <alias path="newMember.email" value="%33"/>
+  <alias
+   path="/ejemplo-ejb/src/main/java/com/savia/ejemplo/ejemplo/dao/impl/CiudadDaoImpl.java" value="%4"/>
+  <alias path="m" value="%35"/>
+  <alias path="/ejemplo-web/src/main/webapp/pages/ciudad-lista.xhtml" value="%26"/>
+  <alias
+   path="/ejemplo-web/src/main/java/com/savia/ejemplo/ejemplo/controller/CiudadCtrl.java" value="%1"/>
+  <alias path="/ejemplo-web/src/main/webapp/index.xhtml" value="%17"/>
+  <alias path="facesContext" value="%41"/>
+  <alias path="m.url" value="%46"/>
+  <alias path="request.contextPath" value="%48"/>
+  <alias path="m2.llave" value="%49"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://xmlns.jcp.org/jsf/core">
+   <prefix>f</prefix>
+  </uri>
+  <uri value="http://xmlns.jcp.org/jsf/html">
+   <prefix>h</prefix>
+  </uri>
+  <uri value="http://java.sun.com/jsf/core">
+   <prefix>f</prefix>
+  </uri>
+  <uri value="http://java.sun.com/jsf/html">
+   <prefix>h</prefix>
+  </uri>
+ </uris>
+</kb-project>

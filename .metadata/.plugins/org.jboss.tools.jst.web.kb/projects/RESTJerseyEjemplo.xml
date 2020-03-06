@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/tomcat-i18n-es.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._tomcat-util-scan.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/tomcat-i18n-zh-CN.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._servlet-api.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/tomcat-util.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._tomcat-api.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._catalina-tribes.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._tomcat-util.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/ecj-4.6.3.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/apache/tomcat/tomcat-catalina/8.5.45/tomcat-catalina-8.5.45.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/apache/tomcat/tomcat-dbcp/8.5.45/tomcat-dbcp-8.5.45.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/apache/tomcat/tomcat-util-scan/8.5.45/tomcat-util-scan-8.5.45.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/tomcat-i18n-fr.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._tomcat-i18n-de.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._jasper-el.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/catalina-ha.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._tomcat-i18n-ja.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/apache/tomcat/tomcat-annotations-api/8.5.45/tomcat-annotations-api-8.5.45.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/tomcat-i18n-ja.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/apache/tomcat/tomcat-catalina-ha/8.5.45/tomcat-catalina-ha-8.5.45.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/apache/tomcat/tomcat-jaspic-api/8.5.45/tomcat-jaspic-api-8.5.45.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._catalina-storeconfig.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/apache/tomcat/tomcat-jsp-api/8.5.45/tomcat-jsp-api-8.5.45.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/servlet-api.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/com/sun/jersey/jersey-core/1.19.4/jersey-core-1.19.4.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._catalina-ant.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/tomcat-i18n-ru.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/tomcat-jni.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._jasper.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/jsp-api.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/websocket-api.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/apache/tomcat/tomcat-api/8.5.45/tomcat-api-8.5.45.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/el-api.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/tomcat-i18n-ko.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/com/sun/jersey/jersey-server/1.19.4/jersey-server-1.19.4.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/tomcat-i18n-de.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._tomcat-coyote.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._annotations-api.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._jsp-api.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/apache/tomcat/tomcat-i18n-es/8.5.45/tomcat-i18n-es-8.5.45.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/tomcat-api.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._tomcat-i18n-zh-CN.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._jaspic-api.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/catalina-ant.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/jasper-el.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/apache/tomcat/tomcat-tribes/8.5.45/tomcat-tribes-8.5.45.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._tomcat-websocket.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/annotations-api.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/catalina-storeconfig.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/apache/tomcat/tomcat-storeconfig/8.5.45/tomcat-storeconfig-8.5.45.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/tomcat-coyote.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/apache/tomcat/tomcat-jasper/8.5.45/tomcat-jasper-8.5.45.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._tomcat-i18n-ru.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._websocket-api.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/apache/tomcat/tomcat-jasper-el/8.5.45/tomcat-jasper-el-8.5.45.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/apache/tomcat/tomcat-i18n-ru/8.5.45/tomcat-i18n-ru-8.5.45.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/apache/tomcat/tomcat-catalina-ant/8.5.45/tomcat-catalina-ant-8.5.45.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._ecj-4.6.3.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._tomcat-i18n-ko.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/catalina.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/apache/tomcat/tomcat-websocket/8.5.45/tomcat-websocket-8.5.45.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/catalina-tribes.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/apache/tomcat/tomcat-i18n-fr/8.5.45/tomcat-i18n-fr-8.5.45.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/jasper.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/asm/asm/3.3.1/asm-3.3.1.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/apache/tomcat/tomcat-coyote/8.5.45/tomcat-coyote-8.5.45.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/apache/tomcat/tomcat-juli/8.5.45/tomcat-juli-8.5.45.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/apache/tomcat/tomcat-websocket-api/8.5.45/tomcat-websocket-api-8.5.45.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/apache/tomcat/tomcat-jni/8.5.45/tomcat-jni-8.5.45.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._tomcat-i18n-es.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/eclipse/jdt/ecj/3.12.3/ecj-3.12.3.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._tomcat-jdbc.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/tomcat-dbcp.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/tomcat-util-scan.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/com/sun/jersey/jersey-bundle/1.19.4/jersey-bundle-1.19.4.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jersey-bundle-1.19.4.jar/META-INF/taglib.tld" project="RESTJerseyEjemplo"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="/home/saviasoft20/.m2/repository/org/json/json/20140107/json-20140107.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._tomcat-dbcp.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._tomcat-i18n-fr.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/apache/tomcat/tomcat-servlet-api/8.5.45/tomcat-servlet-api-8.5.45.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/apache/tomcat/tomcat-util/8.5.45/tomcat-util-8.5.45.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._catalina.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/apache/tomcat/tomcat-jdbc/8.5.45/tomcat-jdbc-8.5.45.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/apache/tomcat/tomcat-i18n-ja/8.5.45/tomcat-i18n-ja-8.5.45.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._catalina-ha.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/tomcat-websocket.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._el-api.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/._tomcat-jni.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/jaspic-api.jar"/>
+  <path value="/home/saviasoft20/Documents/tallerJenkins/Jenkins-Practica/apache-tomcat-8.5.51/lib/tomcat-jdbc.jar"/>
+  <path value="/home/saviasoft20/.m2/repository/org/apache/tomcat/tomcat-el-api/8.5.45/tomcat-el-api-8.5.45.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification"/>
+  <core validator-id="jboss.cdi.core"/>
+  <el/>
+ </validation>
+ <aliases/>
+ <includes/>
+ <uris/>
+</kb-project>
